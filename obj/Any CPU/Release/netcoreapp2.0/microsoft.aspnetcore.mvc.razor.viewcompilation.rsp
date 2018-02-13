@@ -1,0 +1,12 @@
+C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=ACAMPAJEMIAC
+--content-root=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\About.cshtml
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\Contact.cshtml
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\Error.cshtml
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\Index.cshtml
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\_Layout.cshtml
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\_ViewImports.cshtml
+--file=C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\Pages\_ViewStart.cshtml
