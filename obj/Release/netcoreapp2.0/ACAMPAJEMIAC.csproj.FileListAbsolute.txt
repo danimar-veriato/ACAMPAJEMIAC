@@ -3,10 +3,10 @@ C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\b
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\bin\Release\netcoreapp2.0\ACAMPAJEMIAC.runtimeconfig.dev.json
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\bin\Release\netcoreapp2.0\ACAMPAJEMIAC.dll
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\bin\Release\netcoreapp2.0\ACAMPAJEMIAC.pdb
-C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\obj\Release\netcoreapp2.0\ACAMPAJEMIAC.csprojResolveAssemblyReference.cache
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\obj\Release\netcoreapp2.0\ACAMPAJEMIAC.csproj.CoreCompileInputs.cache
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\obj\Release\netcoreapp2.0\ACAMPAJEMIAC.AssemblyInfoInputs.cache
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\obj\Release\netcoreapp2.0\ACAMPAJEMIAC.AssemblyInfo.cs
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\obj\Release\netcoreapp2.0\ACAMPAJEMIAC.dll
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\obj\Release\netcoreapp2.0\ACAMPAJEMIAC.pdb
 C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\bin\Release\netcoreapp2.0\wwwroot\images\Thumbanil.JPEG
+C:\Users\danim\OneDrive\Documents\Visual Studio 2017\ACAMPAJEMIAC\ACAMPAJEMIAC\obj\Release\netcoreapp2.0\ACAMPAJEMIAC.csprojAssemblyReference.cache
